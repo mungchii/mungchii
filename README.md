@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm minki</h1>
-<h3 align="center">A passionate backend developer from Korean</h3>
+<h1 align="center">Hi 👋, I'm MinGi</h1>
+<h3 align="center">A passionate backend developer from Korean</h3>
 
 - 📫 How to reach me **mungchi.dev@gmail.com**
 
